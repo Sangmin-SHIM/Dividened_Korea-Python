@@ -6,6 +6,12 @@
 
 <br>
 <h3>2) How is Dividend Tracker Korea organized ? </h3>
+
+
+url : https://finance.naver.com/sise/dividend_list.naver?sosok=KOSPI
+
+<img width="80%" src="https://user-images.githubusercontent.com/93679283/156404520-61f33dc2-3a70-48af-bae7-f3c3dca0415a.JPG">
+
 <img width="80%" src="https://user-images.githubusercontent.com/93679283/155987432-d19d47bd-044b-4060-8dc7-7b4ebba3e8ad.png">
 It consists of 2 python files, 
 (1. KOSPI(KOSDAQ)_Write.py) and (2. KOSPI(KOSDAQ)_Load.py). 
